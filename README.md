@@ -1,4 +1,6 @@
-## Hi there 👋
+cs @ unsw
+
+[linkedin](https://www.linkedin.com/in/tabeebs/) | [my website](https://tabeebs.com) | [let's connect!](mailto:hi@tabeebs.com)
 
 <!--
 **tabeebs/tabeebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
